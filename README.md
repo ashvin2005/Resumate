@@ -148,27 +148,6 @@ ResuMate/
 
 ---
 
-## 📚 Documentation
-
-- **[QUICK_START.md](./QUICK_START.md)** - Fast setup guide
-- **[ENHANCEMENTS.md](./ENHANCEMENTS.md)** - Detailed feature documentation
-- **[AUTHENTICATION.md](./AUTHENTICATION.md)** - Authentication system guide
-- **[IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md)** - Technical implementation details
-- **[CHANGELOG.md](./CHANGELOG.md)** - Version history and updates
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📧 Contact
 
@@ -179,20 +158,5 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🙏 Acknowledgments
-
-- OpenAI for GPT API
-- React and Vite teams
-- Tailwind CSS community
-- Framer Motion for animation library
-- All contributors and users of Resumate
-
----
 
 **Made with ❤️ for Job Seekers**
